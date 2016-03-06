@@ -1,0 +1,7 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\bin\Debug\GithubStuff.Api.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\bin\Debug\GithubStuff.Api.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\obj\Debug\GithubStuff.Api.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\obj\Debug\GithubStuff.Api.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubStuff\GithubStuff.Api\obj\Debug\GithubStuff.Api.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubStuff", "GithubStuff\GithubStuff.csproj", "{DC50B4B4-5492-4955-BCA3-F1CD4E85849E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubStuff.Api", "GithubStuff.Api\GithubStuff.Api.csproj", "{DC7A32C5-667C-4562-96DE-68AA1AE7CF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC50B4B4-5492-4955-BCA3-F1CD4E85849E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC50B4B4-5492-4955-BCA3-F1CD4E85849E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC50B4B4-5492-4955-BCA3-F1CD4E85849E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC50B4B4-5492-4955-BCA3-F1CD4E85849E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7A32C5-667C-4562-96DE-68AA1AE7CF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A32C5-667C-4562-96DE-68AA1AE7CF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A32C5-667C-4562-96DE-68AA1AE7CF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A32C5-667C-4562-96DE-68AA1AE7CF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
